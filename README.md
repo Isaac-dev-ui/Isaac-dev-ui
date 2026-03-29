@@ -1,7 +1,7 @@
 # 👑 Isaac Njine 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&lines=Software+Architect;Next.js+%26+Laravel+Expert;AI+Agentic+Engineer;Remote+Solutions+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&lines=Software+Developer;Next.js+%26+Laravel+Expert;AI+Agentic+Engineer;Remote+Solutions+Developer" alt="Typing SVG" />
 </div>
 
 ---
